@@ -9,9 +9,8 @@
 7. [참고 문헌](#7-참고-문헌)
 ---
 > #### 1. 개요
-<br/>
-UITableView의 내용들을 살핌  
 
+UITableView의 내용들을 살핌
 <br/>
 
 > #### 2. UITableViewDelegate
